@@ -3,7 +3,7 @@
 # what is javascript?
 
 <p> JavaScript (JS) is a lightweight interpreted (compiled) progarmming language with first-class functions</p>
-[(!/)]
+<!-- [(!/)] -->
 
 ### environment setup done
 
