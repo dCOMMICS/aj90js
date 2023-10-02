@@ -5,7 +5,7 @@
 <p> JavaScript (JS) is a lightweight interpreted (compiled) progarmming language with first-class functions</p>
 <!-- [(!/)] -->
 
-### Environment setup done
+### Environment Setup Done
 
 ### console.log("Hello world")
 <!-- 1. Heading: Using the "#" symbol before the text to create a heading.
