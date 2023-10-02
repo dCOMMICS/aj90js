@@ -1,13 +1,24 @@
-# Day 1 of the challenge.
+# Day 1 of the challenge
 
+# what is javascript?
+
+<p> JavaScript (JS) is a lightweight interpreted (compiled) progarmming language with first-class functions</p>
 [(!/)]
 
+### environment setup done
+
+### console.log("Hello world")
 <!-- 1. Heading: Using the "#" symbol before the text to create a heading.
 # Heading 1 
+
 ## Heading 2 
+
 ### Heading 3 
+
 #### Heading 4 
+
 ##### Heading 5 
+
 ###### Heading 6
 
 2. Styling Text: To apply bold, italic, or strikethrough formatting, use the asterisk (*) or tilde (~) symbols.
