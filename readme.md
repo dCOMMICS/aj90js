@@ -5,7 +5,11 @@
 <p> JavaScript (JS) is a lightweight interpreted (compiled) progarmming language with first-class functions</p>
 <!-- [(!/)] -->
 
+
 ### Environment Setup Done
+
+![Environment](/WhatsApp%20Image%202023-10-02%20at%208.02.10%20PM.jpeg)
+
 
 ### console.log("Hello world")
 <!-- 1. Heading: Using the "#" symbol before the text to create a heading.
