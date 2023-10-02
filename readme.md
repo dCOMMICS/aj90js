@@ -1,6 +1,6 @@
 # Day 1 of the challenge
 
-# what is javascript?
+# What is JavaScript?
 
 <p> JavaScript (JS) is a lightweight interpreted (compiled) progarmming language with first-class functions</p>
 <!-- [(!/)] -->
