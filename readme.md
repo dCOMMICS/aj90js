@@ -12,6 +12,7 @@
 
 
 ### console.log("Hello world")
+![console.log](/clg.jpeg)
 <!-- 1. Heading: Using the "#" symbol before the text to create a heading.
 # Heading 1 
 
